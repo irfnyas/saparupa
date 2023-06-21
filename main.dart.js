@@ -8676,7 +8676,7 @@ m=$.eU().xr
 m=$.a9.a3$.z.h(0,m)
 m.toString
 m=A.MA(new A.cQ(B.AT,A.hh(a,null,null,null,A.X(m).p3.z,B.eg,null),null),!0)
-l=A.a_1(A.alC(B.Od,new A.a3h(),null))
+l=A.a_1(A.alC(B.Oc,new A.a3h(),null))
 k=A.MA(B.JC,!1)
 j=t.E
 s=4
@@ -23877,7 +23877,7 @@ return A.T($async$VU,r)},
 ali(a,b){var s=0,r=A.U(t.WN),q,p
 var $async$ali=A.V(function(c,d){if(c===1)return A.R(d,r)
 while(true)switch(s){case 0:p=t.N
-q=A.VU("https://ifnyas.builtwithdark.com/chatai/ask/"+a,A.aF(["question",b],p,p))
+q=A.VU("https://ifnyas-chatai.builtwithdark.com/ask/"+a,A.aF(["question",b],p,p))
 s=1
 break
 case 1:return A.S(q,r)}})
@@ -42107,7 +42107,7 @@ o=t.E
 return new A.yp(new A.uB(new A.qU(new A.a6I(a,m),l),new A.R5(l,l,1/0,56),l),new A.xP(A.pQ(A.a([B.l1,s,B.l1,new A.cQ(B.l6,A.alj(A.a([A.a_1(new A.zn(r,q,n,B.KM,B.x4,B.JI,B.JJ,4,1,p,!0,l)),B.JD,A.akH(A.X(a).fr,B.BF,m.Td(),24,l,l)],o),B.bZ,B.cI),l)],o),B.bZ,B.bW,B.cI),new A.a6J(m),l),l)}}
 A.a6I.prototype={
 $0(){var s=null,r=A.X(this.a),q=this.b.CW
-return new A.qH(new A.F8(r.cx,B.yk,s),B.Oc,A.hh(q.gl(q)?"typing...":"online",s,s,s,s,s,s),B.ah,s)},
+return new A.qH(new A.F8(r.cx,B.yk,s),B.Od,A.hh(q.gl(q)?"typing...":"online",s,s,s,s,s,s),B.ah,s)},
 $S:339}
 A.a6J.prototype={
 $0(){var s=0,r=A.U(t.H),q,p=this,o
@@ -83515,8 +83515,8 @@ B.Ns=new A.t(!0,B.k,null,"Roboto",null,null,null,null,null,null,null,null,null,n
 B.N6=new A.t(!0,B.k,null,"Roboto",null,null,null,null,null,null,null,null,null,null,null,null,null,B.e,null,null,null,"whiteMountainView labelSmall",null,null,null,null)
 B.Ob=new A.dV(B.MR,B.NU,B.NF,B.Ly,B.NA,B.ML,B.NY,B.LZ,B.Mt,B.Nv,B.Lr,B.NG,B.Ny,B.Ns,B.N6)
 B.x8=new A.LX(1,"longestLine")
-B.Oc=new A.oK("Ridwan Kamil",null,B.fN,null,null,null,null,null,null)
-B.Od=new A.oK("Kembali",null,null,null,null,null,null,null,null)
+B.Oc=new A.oK("Kembali",null,null,null,null,null,null,null,null)
+B.Od=new A.oK("Kang E-mil",null,B.fN,null,null,null,null,null,null)
 B.x9=new A.LZ(0,"system")
 B.Oe=new A.LZ(2,"dark")
 B.H1=new A.j(0.056,0.024)
