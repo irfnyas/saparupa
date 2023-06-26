@@ -5,7 +5,6 @@ const CACHE_NAME = 'flutter-app-cache';
 
 const RESOURCES = {"assets/AssetManifest.bin": "e04c3ada4659890d8a1b263516287d3f",
 "assets/AssetManifest.json": "aa8dd3c98dc7648a768c8bbd25659d96",
-"assets/AssetManifest.smcbin": "b59861aba08e7a40506bed3efc5e341c",
 "assets/assets/images/figure-ridwan-kamil.png": "49f9ecf1c472f0f031cf77e7aa9651ab",
 "assets/assets/images/logo.png": "8b6e617bfd42f114f0f877233a62b1d2",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
@@ -26,9 +25,9 @@ const RESOURCES = {"assets/AssetManifest.bin": "e04c3ada4659890d8a1b263516287d3f
 "icons/Icon-512.png": "f659649a951c9bdff459fad3c56938cd",
 "icons/Icon-maskable-192.png": "089b274202d97aad526fa2d6f6822527",
 "icons/Icon-maskable-512.png": "f659649a951c9bdff459fad3c56938cd",
-"index.html": "98af9525e064dd48f32845b866488501",
-"/": "98af9525e064dd48f32845b866488501",
-"main.dart.js": "5a19565aaa9bdac5365dd0bdac411fc9",
+"index.html": "2f846c8fb8bc9fca0df1d58af09182d2",
+"/": "2f846c8fb8bc9fca0df1d58af09182d2",
+"main.dart.js": "bcdac99741c6965269b2aad4f7fadd4a",
 "manifest.json": "eb6d7797d1404c9061cd18e8664fd43e",
 "version.json": "4b87f39ae0abc1d8c395a5fc86f19e14"};
 // The application shell files that are downloaded before a service worker can
